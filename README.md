@@ -1,1 +1,2 @@
-Hello.. This is my repository of github training
+Hello.. This is my repository of github training in KPT on 2-3 may 2018
+lalalalallalalala...
